@@ -1,4 +1,6 @@
-### Hi there 👋
+###  ✨Hello, This is Mingjia Chen✨
+
+I am a third-year BI student at the University of Toronto. 🔭 I’m currently working on how one's mental health variables could impact their physical health correspondingly.
 
 <!--
 **MjChen120/MjChen120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
