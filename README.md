@@ -1,6 +1,6 @@
 ###  ✨Hello, This is Betty (Mingjia) Chen✨
 
-I am currently studying in a Master's degree in Interaction Design at the ArtCenter. 🔭 
+I am currently studying in a Master of Interaction Design program at the ArtCenter. 🔭 
 
 <!--
 **MjChen120/MjChen120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
